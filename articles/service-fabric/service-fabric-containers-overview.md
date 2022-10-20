@@ -48,8 +48,7 @@ Service Fabric supports the deployment of Docker containers on Linux, and Window
 Container runtimes compatible with ServiceFabric:
 - Linux: Docker
 - Windows:
-   - Windows Server 2022: Mirantis Container Runtime 
-   - Windows Server 2019/2016: DockerEE
+   - Windows Server 2016/2019/2022: Mirantis Container Runtime
 
 
 #### Docker containers on Linux
